@@ -1,0 +1,9 @@
+{
+  "extensions.recommendations": [
+    "ms-python.python",
+    "yzhang.markdown-all-in-one",
+    "ms-vscode.PowerShell",
+    "ms-vscode.hexeditor",
+    "ms-azuretools.vscode-docker"
+  ]
+}
