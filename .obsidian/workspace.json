@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e6a40581530557",
+        "id": "b6e7631eaf5b2e90",
         "type": "tabs",
         "children": [
           {
-            "id": "d15c3432084ac5b5",
+            "id": "34142e55f8d55d27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Admin/Templates/report_template.md",
+                "file": "1_Challenges/Pentest_Machines/GreenEdge/notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "report_template"
+              "title": "notes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gobuster_dir_scan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 392.5
   },
   "right": {
     "id": "c06bf26ad2084eb6",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Admin/Templates/report_template.md",
+                "file": "1_Challenges/Pentest_Machines/GreenEdge/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for report_template"
+              "title": "Backlinks for notes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_Admin/Templates/report_template.md",
+                "file": "1_Challenges/Pentest_Machines/GreenEdge/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from report_template"
+              "title": "Outgoing links from notes"
             }
           },
           {
@@ -142,20 +142,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Admin/Templates/report_template.md",
+                "file": "0_Admin/Progress_Tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of report_template"
+              "title": "Outline of Progress_Tracker"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,24 +169,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "d15c3432084ac5b5",
+  "active": "34142e55f8d55d27",
   "lastOpenFiles": [
     "README.md",
+    "0_Admin/Progress_Tracker.md",
+    "2_Reports/Pentest_Machines/GreenEdge/report.md",
+    "0_Admin/Templates/report_template.md",
+    "1_Challenges/Pentest_Machines/GreenEdge/scans/dir_scan_gobuster",
+    "1_Challenges/Pentest_Machines/GreenEdge/scans/gobuster_dir_scan",
+    "1_Challenges/Pentest_Machines/GreenEdge/scans/ports_versions_scan_nmap",
+    "1_Challenges/Pentest_Machines/GreenEdge/notes.md",
+    "2_Reports/Pentest_Machines/GreenEdge",
+    "1_Challenges/Pentest_Machines/GreenEdge/loot.md",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251024190600.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251024181050.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023213647.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023213445.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023213334.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023213123.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023213047.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023213006.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023212754.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots/Pasted image 20251023211756.png",
+    "1_Challenges/Pentest_Machines/GreenEdge/screenshots",
+    "1_Challenges/Pentest_Machines/GreenEdge/scans/gobuster_dir_scan.txt",
+    "1_Challenges/Pentest_Machines/GreenEdge/scans/gobuster_file_scan.txt",
+    "1_Challenges/Pentest_Machines/GreenEdge/scans/ports_versions_scan",
+    "Untitled",
+    "Untitled.base",
     "3_Text_Editor/README.md",
     "3_Text_Editor/Untitled.md",
-    "0_Admin/Templates/report_template.md",
-    "3_Text_Editor",
-    "1_Challenges/Cryptography/Challenge_Name/working_notes.md",
-    "2_Reports/Cryptography",
-    "2_Reports/Forensics",
-    "2_Reports/Miscellaneous",
-    "2_Reports/Reverse_Engineering",
-    "2_Reports/Steganography",
-    "2_Reports/Web",
-    "2_Reports/PWN",
-    "2_Reports/OSINT",
-    "2_Reports/Pentest_Machines",
-    "1_Challenges/Pentest_Machines/Machine_Name_1/loot.txt.md",
-    "1_Challenges/Pentest_Machines/Machine_Name_1/notes.txt.md"
+    "1_Challenges/Cryptography/Challenge_Name/working_notes.md"
   ]
 }
